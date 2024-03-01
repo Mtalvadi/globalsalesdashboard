@@ -1,4 +1,4 @@
-# Dashboard : Global Sales Dashboard
+# Dashboard : Global Sales
 
 ![image](https://github.com/Mtalvadi/globalsalesdashboard/assets/83495051/3bf82b9b-582d-45a7-9f68-1ae704586c1a)
 
